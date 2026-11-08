@@ -1,0 +1,27 @@
+{
+  "file": "panda_six_tasks_b32_a4_20k_inference.tar",
+  "size": 6982860800,
+  "sha256": "6aa6e09511a376d3c7e74f4b3423ca642e7163d4cf68b88c0846486b06052993",
+  "parts": [
+    {
+      "file": "panda_six_tasks_b32_a4_20k_inference.tar.part001",
+      "size": 1800000000,
+      "sha256": "78efb4653d1e2ca0a5684d19b8ec9d556fdd20e6bde14c073eba63f60147e82f"
+    },
+    {
+      "file": "panda_six_tasks_b32_a4_20k_inference.tar.part002",
+      "size": 1800000000,
+      "sha256": "bcaca96e408a96a78e7daa0d1f89c963aba80dfbe6044ab88171ce7c8c5dd006"
+    },
+    {
+      "file": "panda_six_tasks_b32_a4_20k_inference.tar.part003",
+      "size": 1800000000,
+      "sha256": "29e4a8a18c2afaa9ab8388bdfc979c9af0b90adeed7bd051fb5fff5b9e7b6175"
+    },
+    {
+      "file": "panda_six_tasks_b32_a4_20k_inference.tar.part004",
+      "size": 1582860800,
+      "sha256": "c0dea025083d521b2bf19d4fc6f8a3e5d05c50cf5eb7f9ebbfa801ddbfae0737"
+    }
+  ]
+}
